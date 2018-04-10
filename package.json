@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Guutong/cordova-plugin-android-native-pdfviewer.git"
+    "url": "git+https://github.com/stfabian/cordova-plugin-android-native-pdfviewer.git"
   },
   "keywords": [
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "author": "GuutonG",
+  "author": "stfabian",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Guutong/cordova-plugin-android-native-pdfviewer/issues"
+    "url": "https://github.com/stfabian/cordova-plugin-android-native-pdfviewer/issues"
   },
-  "homepage": "https://github.com/Guutong/cordova-plugin-android-native-pdfviewer#readme"
+  "homepage": "https://github.com/stfabian/cordova-plugin-android-native-pdfviewer#readme"
 }

@@ -7,7 +7,7 @@ repositories{
 
 dependencies {
     compile(name:'pdfviewer-library', ext:'aar')
-    compile 'com.github.barteksc:android-pdf-viewer:2.3.0'
+    compile 'com.github.barteksc:android-pdf-viewer:2.7.0'
     compile 'com.android.support:appcompat-v7:25.1.0'
     compile 'com.android.support:design:25.1.0'
 }
